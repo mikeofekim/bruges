@@ -1,0 +1,11 @@
+Create a cut-up (html, css, etc) on the attached psd file. You can use any CSS Framework (preferably Bootstrap v4.5.0) you comfortable with.
+
+
+Fonts: Poppins and/or Barlow
+
+You have a maximum of 32 hours to submit the required output for us to further assess your qualification for the Job Opening.
+
+Remember, here are the WEB DESIGN CORE STRENGTHS:
+ - RESPONSIVE LANDING PAGE DESIGN
+ - HTML5/CSS3/JS Skills
+ - BRAND DESIGN
